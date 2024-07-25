@@ -1,0 +1,13 @@
+ul{
+    display: flex;
+    justify-content:center;
+}
+li{
+   text-decoration: white;
+   margin-right: 15px;
+    list-style: none;
+
+}
+nav{
+    background-color: aqua;
+}
